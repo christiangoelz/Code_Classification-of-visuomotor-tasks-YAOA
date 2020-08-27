@@ -1,6 +1,7 @@
 # Paper: Task-classification-and-brain-network-characteristics-of-fine-motor-moveme
-Code: Task-classification-and-brain-network-characteristics-of-fine-motor-movements-in-older-adults
-This repository contains the code to generate results, summary statistics, and raw figures for the manuscript, and the manuscript  Task-classification-and-brain-network-characteristics-of-fine-motor-movements-in-older-adults.
+Code: Task-classification-and-brain-network-characteristics-of-fine-motor-movements-in-older-adults.
+
+This repository contains the code to generate results, summary statistics, and raw figures for the manuscript _Task-classification-and-brain-network-characteristics-of-fine-motor-movements-in-older-adults._
 
 ## Code dependencies: 
 
