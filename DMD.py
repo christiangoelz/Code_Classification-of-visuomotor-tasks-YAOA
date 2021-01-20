@@ -25,9 +25,8 @@ class DMD:
 
     This object can be used to decompose EEG data to spatio-temporal coherent 
     patterns with DMD. Basically DMD is an algorithm that allows to approximate 
-    the relation of all signals in pairs of consecutive time instances of a 
+    the relation of all signals in pairs of consecutive time instances  
     arranged in matrix X, where n denotes sensors and m denotes measurement points.
-    Base
     
     Parameters
     ----------
