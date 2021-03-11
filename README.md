@@ -1,7 +1,6 @@
-# Paper: Task-classification-and-brain-network-characteristics-of-fine-motor-moveme
-Code: Task-classification-and-brain-network-characteristics-of-fine-motor-movements-in-older-adults.
+# Paper: Classification of visuomotor tasks based on electroencephalographic data depends on age-related differences in brain activity patterns
 
-This repository contains the code to generate results, summary statistics, and raw figures for the manuscript _Task-classification-and-brain-network-characteristics-of-fine-motor-movements-in-older-adults._
+This repository contains the code to generate results, summary statistics, and raw figures for the manuscript "Classification of visuomotor tasks based on electroencephalographic data depends on age-related differences in brain activity patterns"
 
 ## Code dependencies: 
 
