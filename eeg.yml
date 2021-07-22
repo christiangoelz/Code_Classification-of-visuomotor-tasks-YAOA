@@ -387,6 +387,7 @@ dependencies:
     - mne==0.20.4
     - more-itertools==8.3.0
     - numpy==1.18.4
+    - optht==0.2.0
     - permute==0.1a5
     - py==1.8.1
     - pytest==5.4.3
